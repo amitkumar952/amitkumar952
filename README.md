@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Amit Kumar and I'm a Software Developer by mind and a Mechanical Engineer by heart.</h2>
+<h2 align="center">Hi 👋! My name is Amit Kumar and I'm a Software Developer .</h2>
 
 ###
 
